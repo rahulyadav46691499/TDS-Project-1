@@ -8,6 +8,7 @@
   
 # Data Collection
 - Data collected using GitHub API.
+- Date of collection: 2024-10-31.
 - Only included users with 100+ followers.
 
 # Interesting Insight:
