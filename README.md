@@ -12,3 +12,5 @@ Only included users with 100+ followers.
 
 # Interesting Insight:
 Contributing to popular open-source repositories and being associated with an educational institution may help increase followers and visibility.
+The high star counts on certain repositories indicate significant community interest and engagement.
+The presence of multiple repositories focused on similar topics (e.g., face recognition, smart brain applications) suggests potential areas for collaboration or consolidation into comprehensive learning resources or tools.
