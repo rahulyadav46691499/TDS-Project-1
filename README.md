@@ -7,8 +7,8 @@ This repository contains data about GitHub users in Boston, who have over 100 fo
 - repositories.csv: Contains information about 55786 public repositories from these users
   
 # Data Collection
-Data collected using GitHub API
-Only included users with 100+ followers
+Data collected using GitHub API.
+Only included users with 100+ followers.
 
 # Interesting Insight:
 Contributing to popular open-source repositories and being associated with an educational institution may help increase followers and visibility.
