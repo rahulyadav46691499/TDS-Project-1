@@ -1,6 +1,6 @@
 # TDS-Project-1
 GitHub Users in Toronto
-This repository contains data about GitHub users in Boston, who have over 100 followers and repositories.
+This repository contains data about GitHub users in Toronto, who have over 100 followers and repositories.
 
 # Files
 - users.csv: Contains information about 693 GitHub users in Toronto with over 100 followers
